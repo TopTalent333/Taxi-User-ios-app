@@ -1,0 +1,121 @@
+/* 
+  Localizable.strings
+  TaxiUser
+
+  Created by AppOrio on 24/05/17.
+  Copyright © 2017 apporio. All rights reserved.
+*/
+
+"Enter the email you registered with and we will send you a new password."  = "Entrez le courrier électronique que vous avez utilisé pour vous inscrire et nous vous enverrons un nouveau mot de passe.";
+"Please fill email properly." = "Veuillez remplir le courrier électronique correctement.";
+"Password successfully send at your Email." = "Mot de passe envoyé avec succès à votre adresse e-mail.";
+"Your Email is not registered" = "Votre Email n'est pas enregistré";
+"Required Filled is Missing..." = "Champ obligatoire manquant...";
+"Loading" = "Chargement";
+"Please Wait!!" = "S'il vous plaît, patientez!!";
+"Invalid PhoneNumber or Password" = "Numéro de téléphone ou mot de passe non valide";
+"Please check the filled Details." = "Veuillez vérifier les champs remplis.";
+"Alert" = "Alerte";
+"Your Ride is Successfully Booked!!" = "Votre trajet est bien réservé !!";
+"Your Ride has been Rejected!!" = "Votre trajet a été rejeté !!";
+"Your Ride Book Successfully Date" = "Votre trajet est réservé avec succès";
+"Time" = "Temps";
+"No driver available for this car Select other" = "Aucun conducteur disponible pour cette voiture sélectionnez une autre";
+"Please Select Car First!!!" = "veuillez choisir la voiture d'abord !!!";
+"OK" = "OK";
+"Update successfully!!" = "Mise à jour avec succès!";
+"Please Try Again!!!" = "Veuillez réessayer!!!";
+"Please enter Coupon Code!!" = "Veuillez saisir le code de promo !!";
+"Coupon Applied Sucessfully!!" = "Code promo appliqué avec succès!";
+"OnLine" = "En ligne";
+"OffLine" = "Hors ligne";
+"Profile" = "Profil";
+"Terms Conditions" = "Mentions légales";
+
+"Please select both filled City & Droplocation!!" = "Veuillez sélectionnez à la fois Ville et le lieu de destination !!";
+"Select City" = "Sélectionner une ville";
+"Password and confirm password doesn't match." = "les mots de passe ne correspondent pas.";
+"Your Old Password doesn't match." = "Votre ancien mot de passe ne correspond pas.";
+"Password Change successfully!!" = "Changement de mot de passe avec succès!";
+"Book a Rides" ="Réserver un trajet";
+"My Rides" = "Mes trajets";
+"Rate Card" = "Grille Tarifaire";
+"Report Issue" = "Soumettre un probléme";
+"Call Support" = "Support téléphonique";
+"About" = "À Propos";
+"Cancel Successfully!!" = "Annulé avec succès !!";
+"Total Distance -" = "Distance totale -";
+"Total Time -" = "Temps total -";
+"Time" = "Durée";
+
+"Select Car" = "Sélectionner une voiture";
+"Please enter comment" = "Veuillez saisir un commentaire";
+"Approx Total Distance :" = "Durée estimée";
+"Approx Fare :" = "Montant estimé";
+"Please select both filled Car & City!!" = "Veuillez sélectionnez à la fois la voiture et la ville!";
+"No Record Found" = "Aucun Enregistrement Trouvé";
+"SCHEDULED" = "RÉSERVÉ";
+"ONGOING" = "EN COURS";
+"No Rides!!" = "Pas de trajets !!";
+"Success" = "Réussi";
+"OOPS!" = "OUPS!";
+"Forgot Password" = "Mot de passe oublié";
+"Do you want to change the status of ride ?" = "Voulez-vous changer le statut du trajet?";
+"Cancel" = "Annuler";
+"Confirm" = "Confirmer";
+"Are You Sure to Log Out ?" = "Êtes-vous sûr de vouloir vous déconnecter?";
+"Log Out" = "Se déconnecter";
+"The Internet connection appears to be offline" = "La connexion Internet semble être hors ligne";
+"A server with the specified hostname could not be found." = "Un serveur avec le nom d'hôte spécifié n'a pu être trouvé.";
+"Please enter mobile number first" = "Veuillez entrer d'abord le numéro du mobile";
+"Select options first for payment" = "Veuillez Sélectionner une option pour le paiement";
+"Make Payment" = "Procéder au payment";
+"Payment Done" = "Paiement effectué";
+"Enter Drop Location" = "Saisir une destination";
+"Please Enter Drop Location First!!!" = "Veuillez saisir un lieu de destination !!!";
+"Ride Started" = "Démarrage du trajet";
+"Done" = "Ok";
+"Please select City first!!" = "Veuillez sélectionner la ville en premier!!";
+"Sending e-mail in-app is not so bad!" = "Envoi d'e-mail dans l'application n'est pas si mauvais!";
+
+"Could Not Send Email" = "Impossible d'envoyer un email";
+"Your device could not send e-mail.Please check e-mail configuration and try again." = "Votre appareil n'a pas pu envoyer d'e-mail.Veuillez vérifier la configuration de l'e-mail et réessayer.";
+"The request timed out" = "La demande a expiré";
+"The operation couldn't be completed." = "L'opération n'a pas pu être terminée.";
+"The request timed out." = "La demande a expiré.";
+"The network connection was lost." = "La connexion réseau a été perdue.";
+"Slow Internet" = " Votre connexion internet  est lente";
+"Location not found yet." = "Nous n'arrivons pas à vous localiser.";
+"Selected Type Car Not Available" = "Le type de véhicule sélectionné n'est pas disponible";
+"Success" = "Bonjour";
+"change page to" = "Changer la page de";
+"calendar did select date" = "Le calendrier a bien choisi la date";
+"You dont seem to have any valid coupons" = "Vous ne semblez pas avoir de coupons valides";
+"Please enter a valid coupon and try again." = "Veuillez saisir un coupon valide et réessayer.";
+"Coupon Applied Sucessfully!!!" = "Coupon appliqué avec succès!";
+"Report Issue Regarding IzyCabs App" = "Rapporter un problème concernant l'application IZYCAB";
+"No Location In Text Field" = "Aucun emplacement dans le champ de texte";
+"Already Login on other device" = " Vous êtes déjà connecté sur un autre appareil";
+"ok" = "ok";
+"Please Check Your Name" = "Veuillez vérifier votre nom";
+"Password should  not below 6" = "Mot de passe ne devrait pas inférieur à 6";
+"Password does not match" = " Les Mot de passe ne correspondent pas ";
+"OOPS" = "OUPS";
+"        Total Distance -  " = "Distance totale-";
+"        Total Time -  " = "Durée totale-";
+"Select City " = "Sélectionner une Ville";
+"Select Car" = "Sélectionner la voiture";
+" First " = "Jusqu’à";
+" After " = "Au-delà de";
+" Kms (Base fare)" = "kms (Tarif de base)";
+" per min" = "par min";
+" per km" = "par Km";
+"Approx Fare :   " = "Tarif approximatif :";
+"   Approx Total Distance :   " = "Distance totale approximative :";
+"We use your email and mobile number to send you ride confirmation and receipts." = "Nous utilisons votre numéro de téléphone et votre email pour vous envoyer des factures.";
+"Select Reason" = "Sélectionner la raison";
+"Don't Cancel" = "Ne pas annuler";
+"Cancel" = "Annuler";
+"Your Ride Book Successfully Date" = "Votre trajet à été réservé avec succès";
+"The Internet connection appears to be slow" = "La connexion Internet semble être lente";
+"Credit Card" = "Carte de crédit";
